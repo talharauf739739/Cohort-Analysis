@@ -1,0 +1,155 @@
+Google:
+
+Jan:
+Churn->7849
+Retention->1379
+
+Feb:
+Churn-> 5660
+Retention-> 910
+
+March:
+Churn-> 7865
+Retention-> 992
+
+April:
+Churn-> 11403
+Retention-> 1330
+
+May:
+Churn-> 12235
+Retention-> 2071
+
+June:
+Churn-> 12382
+Retention-> 2177
+
+July:
+Churn-> 14900
+Retention-> 2676
+
+Aug:
+Churn-> 18344
+Retention-> 3252
+
+Sept: Iss mein Total Data tha(37648)
+Churn-> 22516
+Retention-> 15132
+
+Oct:
+Churn-> 16640
+Retention-> 2719
+
+Nov:
+Churn-> 20715
+Retention-> 4032
+
+Dec:Iss mein Total Data tha(50038)
+Churn-> 39973
+Retention-> 10065
+
+
+
+Facebook| Insta:
+
+
+
+Jan:
+Churn-> 1171
+Retention-> 380
+
+Feb:
+Churn-> 802
+Retention-> 220
+
+March:
+Churn-> 1345
+Retention-> 378
+
+April:
+Churn-> 1064
+Retention-> 263
+
+May:
+Churn-> 1292
+Retention-> 295
+
+June:
+Churn-> 1224
+Retention-> 259
+
+July:
+Churn-> 1892
+Retention-> 421
+
+Aug:
+Churn-> 2042
+Retention-> 424
+
+Sept:
+Churn-> 1990
+Retention-> 1742
+
+Oct:
+Churn-> 1108
+Retention-> 214
+
+Nov:
+Churn-> 1860
+Retention-> 433
+
+Dec:
+Churn-> 3864
+Retention-> 987
+
+Tiktok:
+
+Jan:
+Churn-> 0
+Retention-> 0
+
+Feb:
+Churn-> 0
+Retention-> 0
+
+March:
+Churn-> 0
+Retention-> 0
+
+April:
+Churn-> 0
+Retention-> 0
+
+May:
+Churn-> 0
+Retention-> 0
+
+
+June:
+Churn-> 0
+Retention-> 0
+
+July:
+Churn-> 0
+Retention-> 0
+
+Aug:
+Churn-> 0
+Retention-> 0
+
+Sept:
+Churn-> 1278
+Retention-> 574
+
+Oct:
+Churn-> 896
+Retention-> 20
+
+Nov:
+Churn-> 1090
+Retention-> 42
+
+
+Dec:
+Churn-> 2771
+Retention-> 134
